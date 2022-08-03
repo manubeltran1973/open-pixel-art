@@ -1,0 +1,4 @@
+const o = {
+  name: "Manz",
+  life: 99,
+};
